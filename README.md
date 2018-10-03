@@ -1,2 +1,2 @@
-# aves.github.io
-Github live page.
+# HW-Wireframe
+First homework assignment, easy version
