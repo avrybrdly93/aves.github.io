@@ -1,2 +1,2 @@
-# HW-Wireframe
-First homework assignment, easy version
+# Basic-Portfolio
+Recommended HW assignment #1
